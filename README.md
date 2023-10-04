@@ -1,2 +1,2 @@
 # Test7
-#This Domain is haked by Rajutjn
+# This Domain is haked by Rajutjn
